@@ -1,0 +1,44 @@
+.back {
+    background-color: black;
+}
+
+.bulb 
+{
+    height : 150px;
+    width : 110px;
+}
+
+.cat {
+    height:200px;
+    width:150px;
+}
+
+.switchboard {
+    background-color: gray;
+    height:100px;
+    width:200px;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+    color:aliceblue;
+}
+
+.onswitch {
+    background-color: green;
+    border-radius: 5px;
+    padding:5px;
+    margin: 5px;
+    width:50px;
+    color: aliceblue;
+    font-size: 15px;
+}
+
+.offswitch {
+    background-color: rgb(207, 47, 47);
+    border-radius: 5px;
+    padding:5px;
+    margin: 5px;
+    width:50px;
+    color: aliceblue;
+    font-size: 15px;
+}
