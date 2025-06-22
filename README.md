@@ -1,4 +1,5 @@
 🐱💡 Cat in a Dark — Project Summary
+
 Overview:
 “Cat in a Dark” is a creative and interactive mini web project built using HTML, CSS, and JavaScript, where a cat's appearance changes based on a virtual light switch. It visually represents how a cat appears with glowing eyes in the dark when the lights are off, and looks normal in the light when turned on.
 
